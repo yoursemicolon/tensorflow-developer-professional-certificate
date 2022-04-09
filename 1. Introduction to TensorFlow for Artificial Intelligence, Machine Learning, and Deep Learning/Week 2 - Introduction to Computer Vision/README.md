@@ -108,3 +108,7 @@ model.fit(training_images, training_labels, epochs=5, callbacks=[callbacks])
 
 ## Other Datasets
 Find more `tf.keras.datasets` API [here](https://www.tensorflow.org/api_docs/python/tf/keras/datasets).
+
+## Week 2 Graded Assignments
+* Quiz 2: [week-2-quiz](Graded%20Assignment/week2-quiz.md)
+* Programming assignment: [notebook](Graded%20Assignment/)
