@@ -86,8 +86,8 @@ If the result is far from expectation or what you guess before, there are 2 reas
 
 ## Week 1 Grading Assignments
 
-* Quiz 1: 
-* Programming assignment: 
+* Quiz 1: [week1-quiz](Graded%20Assignments/week1-quiz.md)
+* Programming assignment: [notebook](Graded%20Assignments/C1W1_Assignment.ipynb)
 
 ## Resources
 * AI for everyone: [ai-for-everyone-course](https://www.deeplearning.ai/program/ai-for-everyone/)
