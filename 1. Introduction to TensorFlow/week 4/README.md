@@ -126,6 +126,8 @@ The loop then iterates through all of the images in that collection.
     images = np.vstack([x])
 ```
 
-
+## References
+* [EarlyStopping callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
+* 
 
 

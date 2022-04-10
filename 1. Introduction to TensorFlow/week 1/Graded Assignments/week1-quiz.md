@@ -1,4 +1,4 @@
-# Graded Assignment - Quiz
+# Graded Assignment - Quiz 1
 
 <img src="../img/week1-quiz/1.PNG" alt="week-1-quiz">
 
