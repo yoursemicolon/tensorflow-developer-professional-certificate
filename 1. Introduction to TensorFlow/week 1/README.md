@@ -79,7 +79,7 @@ If the result is far from expectation or what you guess before, there are 2 reas
 
 ## Get started with Google Colaboratory (Coding TensorFlow)
 
-* One useful notebook collection: [Seedback Project](research.google.com/seedbank)
+* One useful notebook collection: [Seedbank Project](research.google.com/seedbank)
 * Start working with Google Colab: [Welcome to Colaboratory](colab.research.google.com)
 * An easy way to learn and use Tensorflow in Colab: [Colab - Tensorflow](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309)
 * Week 1 - Workbook: [Hello World of Deep Learning with Neural Networks](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W1/ungraded_lab/C1_W1_Lab_1_hello_world_nn.ipynb)

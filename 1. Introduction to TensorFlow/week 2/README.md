@@ -111,4 +111,4 @@ Find more `tf.keras.datasets` API [here](https://www.tensorflow.org/api_docs/pyt
 
 ## Week 2 Graded Assignments
 * Quiz 2: [week-2-quiz](Graded%20Assignment/week2-quiz.md)
-* Programming assignment: [notebook](Graded%20Assignment/)
+* Programming assignment: [notebook](Graded%20Assignment/C1W2_Assignment.ipynb)
