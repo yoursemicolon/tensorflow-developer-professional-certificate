@@ -126,8 +126,13 @@ The loop then iterates through all of the images in that collection.
     images = np.vstack([x])
 ```
 
+## Ungraded Lab
+* Lab 1: [Training with ImageDataGenerator](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W4/ungraded_labs/C1_W4_Lab_1_image_generator_no_validation.ipynb)
+* Lab 2: [ImageDataGenerator with Validation Set](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W4/ungraded_labs/C1_W4_Lab_2_image_generator_with_validation.ipynb)
+
 ## References
 * [EarlyStopping callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
-* 
+* [Binary Classification](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)
 
 
