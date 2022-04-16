@@ -150,3 +150,4 @@ When we're training a neural network, we do want to have all the data to be the 
 
 ## References
 * [Text Tokenization](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer#arguments)
+* [Assignments](https://charon.me/posts/keras/keras3/)
