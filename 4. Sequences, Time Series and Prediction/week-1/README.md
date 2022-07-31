@@ -57,8 +57,24 @@ There is also another way to split training, validation and test sets with using
 </p>
 
 ## Metrics for Evaluating Performance
+Metrics used to calculate model performance. 
 
+<p align="center">
+    <img src="img\metrics.PNG" alt="metrics" width=500>
+</p>
 
+* Mean squared error (mse), square the errors and calculate their mean. It need to be squared because to get rid of negative values. 
+* Square root, if we want the mean of our errors' calculation to be of the same as the original errors. 
+* Mean absolute deviation (mae), instead of squaring to get rid of negatives we just uses their absolute value. 
+* Mean absolute percentafe error (mape), the mean ratio between the absolute error and the absolute valuie. This give an idea of the size of the errors compared to the values. 
+
+### When to Use MSE and MAE?
+If large errors are potentially dangerous and they cost you much more than smaller errors, then you may prefer the mse. But if your gain or your loss is just proportional to the size of the error, then the mae may be better.
+
+```python
+# Naive Forecast MAE
+keras.metrics.mean_absolute_error(x_valid, naive_forecast).numpy()
+```
 
 ## References
 * [Ungraded Lab - C4_W1_Lab_1_time_series](https://colab.research.google.com/drive/1_QdTh3jQxxAMCekxUbagkmL-mJKDUSom?usp=sharing)
