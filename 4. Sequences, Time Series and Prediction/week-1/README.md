@@ -78,4 +78,5 @@ keras.metrics.mean_absolute_error(x_valid, naive_forecast).numpy()
 
 ## References
 * [Ungraded Lab - C4_W1_Lab_1_time_series](https://colab.research.google.com/drive/1_QdTh3jQxxAMCekxUbagkmL-mJKDUSom?usp=sharing)
+* [Ungraded Lab - C4_W1_Lab_2_forecasting](https://colab.research.google.com/drive/1MlZKLUVBQVLEvfPzeadeDMg7j8q11ozW?usp=sharing)
 * [Naïve Forecasting](https://www.avercast.in/blog/what-is-naive-forecasting-and-how-can-be-used-to-calculate-future-demand#:~:text=Na%C3%AFve%20forecasting%20is%20the%20technique,to%20the%20final%20observed%20value.)
